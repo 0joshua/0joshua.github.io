@@ -17,4 +17,4 @@ To replace the stovetop I purchased a double burner portable induction stovetop 
 
 ![Induction burner sitting on top of original stovetop.](/images/gas1.webp)
 
-<img src="/images/gas1.webp" alt="Induction burner sitting on top of original stovetop" class="responsive" loading="lazy'>
+<img src="/images/gas1.webp" alt="Induction burner sitting on top of original stovetop" class="responsive" loading="lazy">
