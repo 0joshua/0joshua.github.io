@@ -42,3 +42,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
