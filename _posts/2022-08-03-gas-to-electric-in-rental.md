@@ -15,11 +15,11 @@ Obviously this can be problematic in a rental property where you do not have con
 
 To replace the stovetop I purchased a double burner portable induction stovetop (Duxtop BT-350DZ) and a stovetop cover. I also needed to upgrade some of my cookware to be compatible with induction technology.
 
-<img src="/images/gas1.webp" alt="Induction burner sitting on top of original stovetop" class="responsive" loading="lazy">
+<a href="/images/gas1.webp" target="_blank"><img src="/images/gas1.webp" alt="Induction burner sitting on top of original stovetop" class="responsive" loading="lazy"></a>
 
 Replacing the oven was a bit more challenging as the only real option is a toaster oven, which are generally pretty small. I went with the largest, most powerful one that could run off the current electrical circuits which was a Breville BOV900BSS.
 
-<img src="/images/gas2.webp" alt="Induction burner sitting on top of original stovetop" class="responsive" loading="lazy">
+<a href="/images/gas2.webp" target="_blank"><img src="/images/gas2.webp" alt="Induction burner sitting on top of original stovetop" class="responsive" loading="lazy"></a>
 
 Other workarounds include changing cooking habits - we now use the microwave and slow cooker more.
 
