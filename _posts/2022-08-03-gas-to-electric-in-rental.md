@@ -16,3 +16,5 @@ Obviously this can be problematic in a rental property where you do not have con
 To replace the stovetop I purchased a double burner portable induction stovetop (Duxtop BT-350DZ) and a stovetop cover. I also needed to upgrade some of my cookware to be compatible with induction technology.
 
 ![Induction burner sitting on top of original stovetop.](/images/gas1.webp)
+
+<img src="/images/gas1.webp" alt="Induction burner sitting on top of original stovetop" class="responsive" loading="lazy'>
