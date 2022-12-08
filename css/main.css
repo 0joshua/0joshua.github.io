@@ -45,3 +45,7 @@ ul.posts li {
   max-width: 100%;
   height: auto;
 }
+
+.title {
+    font-size: 5em;
+}
