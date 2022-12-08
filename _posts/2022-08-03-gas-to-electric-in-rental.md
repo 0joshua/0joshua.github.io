@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Switch from Gas to Electric Cooking in a Rental"
-date: 2022-11-28
+date: 2022-08-03
 ---
 # How to Switch from Gas to Electric Cooking in a Rental
 
