@@ -32,6 +32,10 @@ footer {
     font-size: .8em;
 }
 
+nav {
+    border-bottom: 1px solid #d5d5d5;
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1em;
