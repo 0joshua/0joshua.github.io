@@ -3,6 +3,7 @@ body {
     width: 90%;
     max-width: 800px; 
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    line-height: 1.5em;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -24,7 +25,6 @@ a:hover {
 
 p {
     font-size: 1em;
-    line-height: 1.5em;
     color: #333;
 }
 footer {
